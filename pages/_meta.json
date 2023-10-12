@@ -1,0 +1,37 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
+    }
+  },
+  "docs": {
+    "title": "Documentation",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "typesetting": "article"
+    }
+  }
+}
